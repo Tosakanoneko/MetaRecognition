@@ -7,7 +7,7 @@ import textwrap
 import tkinter.font as tkfont
 from face.face_local import FaceRecognizer
 import threading
-import cv2
+import cv2 
 from PIL import Image, ImageTk
 from voice.voice_local import create_spectrum_image
 import finger.as608_combo_lib as as608
